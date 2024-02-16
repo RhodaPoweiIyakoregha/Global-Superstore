@@ -100,7 +100,7 @@ The city of champaign is the least profitable in the United States, the average 
   1. champaign is the least profitable in the US therefore product offerings in this area must be removed.
   2. Regions where thre are returned Orders should be regulated and monitored.
   3. there should be provision of more discounts and less shipping cost to African countries to improve sales.
-  4. product offering needs to be stopped in the least subcategories in south east asia 
+  4. product offering needs to be stopped in the least subcategories in south east asia. 
 
 ## Limitations
 I tried creating a relationship with the returns table to the orders table but it had no relationship.
