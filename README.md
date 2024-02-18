@@ -75,8 +75,11 @@ This comprises of two dashboards
   - Sharp Wireless Fax, Digital worth £2,894.1.
 
 2. The 3 subcategories with the highest average shipping cost in the United States are;
+ 
  -Copiers worth £165.2887 (44.98%)
+ 
  -Machines worth £132.2454 (35.99%) and
+ 
  -Tables worth £69.95(19.03%).
 
 3.A
