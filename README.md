@@ -53,7 +53,7 @@ Power BI automatically created a one to many relationship between both tables,Th
 ## Visualization
 This comprises of two dashboards
 
-![](Superstore_Dasboard1.png)    | ![](Superstore_dashboard2.png)
+![](Global_Original.png)    | ![](Superstore_dashboard2.png)
 
 ## Analysis
 1A.The three countries that generated the highest total profit for global superstore in the year 2014 are The United States  with a total profit of £92,714.8431, India with a total profit of £49,032.295 and China with a total profit of £46,848.174.
